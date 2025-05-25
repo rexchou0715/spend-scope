@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# confidential data
+data/processed/cleaned_transactions.csv
+data/raw/ing_bank_statement_sample.csv
+data/raw/revolut_bank_statement_sample.csv
