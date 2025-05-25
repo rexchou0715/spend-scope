@@ -36,8 +36,7 @@ The pipeline (in `main.ipynb`) performs the following:
 3. **Transaction Name cleaning ➝** remove special characters like `*`, `/`
 4. **Categorization ➝** uses a custom dictionary in `category_keywords.py`
 
-The cleaned output is saved in:  
-data/processed/cleaned_transactions.csv
+The cleaned output is saved in:  data/processed/cleaned_transactions.csv
 
 
 ---
