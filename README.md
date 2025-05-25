@@ -72,10 +72,10 @@ Unmatched entries are labeled as `"Uncategorized"`.
 ## 📁 Folder Structure
 
 data/
-    ├── raw/ # ING & Revolut sample files
-    ├── processed/ # Cleaned & categorized output
-    category_keywords.py # Custom keyword dictionary
-    main.ipynb # Data cleaning pipeline
+├── raw/ # ING & Revolut sample files
+├── processed/ # Cleaned & categorized output
+category_keywords.py # Custom keyword dictionary
+main.ipynb # Data cleaning pipeline
 
 
 ---
