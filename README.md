@@ -50,7 +50,7 @@ Categorization is based on **hand-written keyword rules** stored in `category_ke
 - Utilities, Rent, Medical
 - Income types (Salary, Refund, Top Up, etc.)
 
-Unmatched entries are labeled as `"Uncategorized"`.
+Unmatched entries are labeled as `"Uncategorized Expense"` or `"Uncategorized Income"`.
 
 ---
 
