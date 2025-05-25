@@ -1,0 +1,99 @@
+,Year,Month,Day,Name,Amount,IsCredit,Source,Category
+0,2023,9,23,NS Utrecht C. 209 UTRECHT NLD,-5.0,Debit,ING,Transportation
+1,2024,2,10,Albert Heijn Bunnik BUNNIK NLD,-52.88,Debit,ING,Groceries
+2,2024,12,19,Lin C T,-60.0,Debit,ING,Medical
+3,2024,6,19,CCV O Panuozzo UTRECHT NLD,-14.0,Debit,ING,Dining
+4,2024,9,12,CCV OV Ticketservice UTRECHT NLD,-5.0,Debit,ING,Transportation
+5,2024,5,3,OCO Toren B.V.,-806.21,Debit,ING,Rent
+6,2023,10,19,KIMMADE UTRECHT NLD,-18.7,Debit,ING,Dining
+7,2024,7,22,BELASTINGDIENST,474.0,Credit,ING,Government Allowance
+8,2024,7,15,SPAR MARUPES PAG. LVA,-13.82,Debit,ING,Groceries
+9,2024,12,13,Revolut  8458  Dublin IRL,-100.0,Debit,ING,Top Up
+10,2023,10,2,ALBERT HEIJN 2202 UTRECHT NLD,-4.35,Debit,ING,Groceries
+11,2024,9,18,NS GROEP IZ NS REIZIGERS,-26.8,Debit,ING,Transportation
+12,2023,12,10,Revolut Payments UAB via Stripe,-30.0,Debit,ING,Top Up
+13,2023,10,23,MCD Utrecht HC UTRECHT NLD,-7.65,Debit,ING,Dining
+14,2024,7,14,PYD LSA Riga LVA,-1.5,Debit,ING,Transportation
+15,2024,12,24,Revolut  8458  Dublin IRL,-100.0,Debit,ING,Top Up
+16,2024,7,3,BARS SHOTCAFE TERASE RIGA LVA,-9.0,Debit,ING,Dining
+17,2024,2,25,ESN Utrecht,-8.0,Debit,ING,Entertainment
+18,2024,7,17,Janis RozeKr.Barona Riga LVA,-11.16,Debit,ING,Shopping/Miscellaneous
+19,2024,4,30,AON IPM via Unifiedpost Payments SA,-56.7,Debit,ING,Insurance
+20,2024,1,6,SUMUP   WITTYS ORGANIC FO BE DEU,-18.1,Debit,ING,Dining
+21,2024,5,6,University Shop UU UTRECHT NLD,-0.91,Debit,ING,Groceries
+22,2024,5,9,CCV OV Heildelberglaan UTRECHT,-10.0,Debit,ING,Transportation
+23,2024,4,6,Albert Heijn Bunnik BUNNIK NLD,-54.06,Debit,ING,Groceries
+24,2024,5,6,Tikkie,-8.5,Debit,ING,Transfers
+25,2024,5,19,Alipay EUROPE LTD S.A,-10.86,Debit,ING,Shopping/Miscellaneous
+26,2023,11,8,Revolut Bank UAB,-30.0,Debit,ING,Top Up
+27,2023,12,15,Revolut Payments UAB via Stripe,-50.0,Debit,ING,Top Up
+28,2023,10,5,Plaza Resident Services Nederland B via Mollie,-10.0,Debit,ING,Rent
+29,2023,9,23,Action 1282 Utrecht NLD,-10.15,Debit,ING,Shopping/Home Goods
+30,2024,10,18,Amazing Oriental HC UTRECHT NLD,-40.55,Debit,ING,Groceries
+31,2023,10,1,EL GRECO UTRECHT NLD,-11.0,Debit,ING,Dining
+32,2024,3,31,Action 1282 Utrecht NLD,-3.29,Debit,ING,Shopping/Home Goods
+33,2024,11,24,Holland & Barrett SGRAVENHAGE,-30.07,Debit,ING,Medical
+34,2023,9,30,Amazing Oriental HC UTRECHT NLD,-17.54,Debit,ING,Groceries
+35,2024,9,30,CCV OV Ticketservice UTRECHT NLD,-10.0,Debit,ING,Transportation
+36,2024,12,16,Albert Heijn 1467 UTRECHT NLD,-5.08,Debit,ING,Groceries
+37,2024,9,12,Revolut  8458  Dublin IRL,-100.0,Debit,ING,Top Up
+38,2024,7,30,Lin C T,-60.0,Debit,ING,Medical
+39,2024,7,26,Jumbo Hammarskjoldho UTRECHT NLD,-2.12,Debit,ING,Groceries
+40,2024,5,10,CCV KFC Utrecht Vreden UTRECHT,-19.54,Debit,ING,Dining
+41,2024,7,17,RIMI CHM Aleja Riga RIGA LVA,-4.58,Debit,ING,Groceries
+42,2023,12,11,Amazing Oriental HC UTRECHT NLD,-7.39,Debit,ING,Groceries
+43,2024,5,9,Action 1282 Utrecht NLD,-5.03,Debit,ING,Shopping/Home Goods
+44,2024,9,24,Revolut  8458  Dublin IRL,-100.0,Debit,ING,Top Up
+45,2024,5,30,ALBERT HEIJN 2204 UTRECHT NLD,-6.71,Debit,ING,Groceries
+46,2024,3,13,NS GROEP IZ NS REIZIGERS,-58.84,Debit,ING,Transportation
+47,2024,9,12,AAB INZ TIKKIE,10.0,Credit,ING,Reimbursement
+48,2023,9,23,ALBERT HEIJN 1294 UTRECHT NLD,-44.64,Debit,ING,Groceries
+49,2024,9,1,Lebara,-3.7,Debit,ING,Utilities
+0,2024,12,27,Albert Heijn,-2.24,Debit,Revolut,Groceries
+1,2023,11,7,IDEAL Top-Up,20.0,Credit,Revolut,Top Up
+2,2024,2,14,SPAR university,-1.1,Debit,Revolut,Groceries
+3,2023,12,6,Universiteit Utrecht,-1.35,Debit,Revolut,Education
+4,2023,12,11,Albert Heijn,-26.85,Debit,Revolut,Groceries
+5,2024,1,15,Amazing Oriental,-4.73,Debit,Revolut,Groceries
+6,2024,9,25,Action,-1.37,Debit,Revolut,Shopping/Home Goods
+7,2024,4,14,Stichting Horeca Oly,-5.2,Debit,Revolut,Dining
+8,2024,9,21,MCD Supermarkt,-6.05,Debit,Revolut,Dining
+9,2023,8,30,Albert Heijn,-1.64,Debit,Revolut,Groceries
+10,2024,10,19,Lidl,-4.15,Debit,Revolut,Groceries
+11,2024,12,13,Ov Halte 24 Oktoberplein,-10.0,Debit,Revolut,Transportation
+12,2024,10,4,Action,-4.55,Debit,Revolut,Shopping/Home Goods
+13,2024,12,24,Albert Heijn,-8.48,Debit,Revolut,Groceries
+14,2023,12,16,Kruidvat,-15.87,Debit,Revolut,Shopping/Personal Care
+15,2024,12,17,Tiger Stores Utrecht,-1.0,Debit,Revolut,Shopping/Miscellaneous
+16,2023,11,7,Xerox (nederland),-5.0,Debit,Revolut,Education
+17,2023,12,25,EasyJet,-66.72,Debit,Revolut,Travel
+18,2024,12,5,Time4t Utrecht,-4.09,Debit,Revolut,Groceries
+19,2024,4,2,MYPROTEIN,-14.99,Debit,Revolut,Fitness
+20,2024,11,10,Albert Heijn,-4.95,Debit,Revolut,Groceries
+21,2024,9,15,Albert Heijn,-0.92,Debit,Revolut,Groceries
+22,2024,3,23,St. Cambridgebar,-8.5,Debit,Revolut,Dining
+23,2024,11,20,Albert Heijn,-11.18,Debit,Revolut,Groceries
+24,2023,8,27,Google Pay Top-Up by  7810,10.0,Credit,Revolut,Top Up
+25,2024,10,30,Albert Heijn,-2.59,Debit,Revolut,Groceries
+26,2023,9,1,Albert Heijn,-34.64,Debit,Revolut,Groceries
+27,2023,12,20,Universiteit Utrecht,-1.59,Debit,Revolut,Education
+28,2024,9,25,Lidl,-0.89,Debit,Revolut,Groceries
+29,2024,4,25,Normal,-5.7,Debit,Revolut,Shopping/Personal Care
+30,2024,9,22,Jumbo Supermarkt,-1.13,Debit,Revolut,Groceries
+31,2024,4,8,Horeca Olympos,-5.2,Debit,Revolut,Dining
+32,2024,12,8,Albert Heijn,-0.65,Debit,Revolut,Groceries
+33,2024,7,12,Rimi,-0.81,Debit,Revolut,Groceries
+34,2023,11,18,Normal,-2.9,Debit,Revolut,Shopping/Personal Care
+35,2024,9,5,Howard Eyewear,-13.84,Debit,Revolut,Medical
+36,2023,9,11,Maas,-1.2,Debit,Revolut,Dining
+37,2024,12,15,Lidl,-1.28,Debit,Revolut,Groceries
+38,2024,3,5,Horeca Olympos,-5.0,Debit,Revolut,Dining
+39,2023,12,10,IDEAL Top-Up,30.0,Credit,Revolut,Top Up
+40,2023,11,9,Albert Heijn,-13.78,Debit,Revolut,Groceries
+41,2024,12,1,Dirk,-1.64,Debit,Revolut,Groceries
+42,2024,3,26,Universiteit Utrecht,-2.0,Debit,Revolut,Education
+43,2024,12,29,Albert Heijn,-9.28,Debit,Revolut,Groceries
+44,2023,12,11,Jumbo Supermarkt,-2.13,Debit,Revolut,Groceries
+45,2024,10,7,Action,-1.39,Debit,Revolut,Shopping/Home Goods
+46,2024,11,30,Apple Pay Top-Up by  7673,50.0,Credit,Revolut,Top Up
+47,2023,12,19,Albert Heijn,-3.0,Debit,Revolut,Groceries
