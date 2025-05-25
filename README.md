@@ -68,17 +68,6 @@ Unmatched entries are labeled as `"Uncategorized Expense"` or `"Uncategorized In
 
 ---
 
-## 📁 Folder Structure
-
-data/
-    ├── raw/ # ING & Revolut sample files
-    ├── processed/ # Cleaned & categorized output
-    category_keywords.py # Custom keyword dictionary
-    main.ipynb # Data cleaning pipeline
-
-
----
-
 ## ⚠️ Known Limitations
 
 - Not scalable — based on fixed rules and keywords
