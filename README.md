@@ -36,8 +36,7 @@ The pipeline (in `main.ipynb`) performs the following:
 3. **Transaction Name cleaning ➝** remove special characters like `*`, `/`
 4. **Categorization ➝** uses a custom dictionary in `category_keywords.py`
 
-The cleaned output is saved in:  
-data/processed/cleaned_transactions.csv
+The cleaned output is saved in:  data/processed/cleaned_transactions.csv
 
 
 ---
@@ -51,7 +50,7 @@ Categorization is based on **hand-written keyword rules** stored in `category_ke
 - Utilities, Rent, Medical
 - Income types (Salary, Refund, Top Up, etc.)
 
-Unmatched entries are labeled as `"Uncategorized"`.
+Unmatched entries are labeled as `"Uncategorized Expense"` or `"Uncategorized Income"`.
 
 ---
 
@@ -66,17 +65,6 @@ Unmatched entries are labeled as `"Uncategorized"`.
 4. View the result in `data/processed/`.
 
 > 💡 I use the output in **Tableau** to build visual dashboards.
-
----
-
-## 📁 Folder Structure
-
-data/
-    ├── raw/ # ING & Revolut sample files
-    ├── processed/ # Cleaned & categorized output
-    category_keywords.py # Custom keyword dictionary
-    main.ipynb # Data cleaning pipeline
-
 
 ---
 
