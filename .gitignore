@@ -176,4 +176,9 @@ cython_debug/
 # confidential data
 data/processed/cleaned_transactions.csv
 data/raw/ing_bank_statement_sample.csv
+data/raw/ing_bank_statement_sample_2.csv
+data/raw/revolut_bank_statement_sample_2.csv
 data/raw/revolut_bank_statement_sample.csv
+data/processed/cleaned_transactions_previous.csv
+script/api_key.py
+tableau_vis
