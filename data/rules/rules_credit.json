@@ -1,0 +1,311 @@
+{
+  "belastingdienst": [
+    {
+      "Category": "Government & Support",
+      "Subcategory": "Grant",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "BELASTINGDIENST"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "aon": [
+    {
+      "Category": "Reimbursement",
+      "Subcategory": "Insurance",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "AON Nederland C.V."
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "tikkie": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "From Others",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "AAB INZ TIKKIE"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "shared packaging": [
+    {
+      "Category": "Others",
+      "Subcategory": "Unknown Income",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "SHARED PACKAGING"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "vigante": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "From Others",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "D VIGANTE"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "fte": [
+    {
+      "Category": "Gifts & Personal",
+      "Subcategory": "Family Support",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE9313807 01",
+        "Trans.Reference: FTE4871092 01",
+        "Trans.Reference: FTE2788580 01",
+        "Trans.Reference: FTE5171113 01",
+        "Trans.Reference: FTE7366781 01"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ns": [
+    {
+      "Category": "Reimbursement",
+      "Subcategory": "Transportation",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "NS GROEP IZ NS REIZIGERS",
+        "NS GROEP NSR CUST SERV"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "plaza": [
+    {
+      "Category": "Reimbursement",
+      "Subcategory": "House",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Plaza Resident ServicesNederland"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "DEPOSIT": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "Deposit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "ING DEPOSIT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "google pay": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Self",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Google Pay Top-Up by *7810"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ideal": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Self",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "IDEAL Top-Up"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "top-up": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Self",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "IDEAL Top-Up"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "balance": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Self",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Balance migration to another region or legal entity"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "apple pay": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Self",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Apple Pay Top-Up by *7673"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "referral": [
+    {
+      "Category": "Business & Side Hustles",
+      "Subcategory": "Affiliate Income",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Referral reward"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "lebara": [
+    {
+      "Category": "Others",
+      "Subcategory": "Reimbursement",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Lebara BV"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ]
+}

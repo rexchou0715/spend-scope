@@ -1,0 +1,4782 @@
+{
+  "revolut": [
+    {
+      "Category": "Trasnfer",
+      "Subcategory": "To Self",
+      "Country": [],
+      "City": [],
+      "Original Name": [
+        "Revolut**8458* Dublin IRL",
+        "Revolut Bank UAB"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    },
+    {
+      "Category": "Finance",
+      "Subcategory": "Bank Fees",
+      "Country": [
+        "Lithuania"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Revolut Payments UAB"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    },
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Others",
+      "Country": [
+        "United Kingdom"
+      ],
+      "City": [
+        "London"
+      ],
+      "Original Name": [
+        "Transfer to Revolut user"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lebara": [
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Phone Bill",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Lebara"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ticketservice": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*OV Ticketservice UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "tikkie": [
+    {
+      "Category": "Trasnfer",
+      "Subcategory": "To Others",
+      "Country": [],
+      "City": [],
+      "Original Name": [
+        "Goeseije via Tikkie"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    },
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam",
+        "Unknown"
+      ],
+      "Original Name": [
+        "To CHUN YU LIN",
+        "To Mo Moo",
+        "Agnes Harms"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    },
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown",
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Chou via Tikkie",
+        "M YU via Tikkie",
+        "Coutinho via Tikkie",
+        "To Tang via Tikkie"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lin c t": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Medical Bills",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Lin C T"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "albert heijn": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht",
+        "Eindhoven",
+        "Bunnik",
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Albert Heijn 1467 UTRECHT NLD",
+        "ALBERT HEIJN 1294 UTRECHT NLD",
+        "ALBERT HEIJN 2202 UTRECHT NLD",
+        "ALBERT HEIJN 1467 UTRECHT NLD",
+        "ALBERT HEIJN 1379 EINDHOVEN NLD",
+        "Albert Heijn Bunnik BUNNIK NLD",
+        "ALBERT HEIJN 2209 AMSTERDAM NLD",
+        "ALBERT HEIJN 1314 AMSTERDAM NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ns": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [],
+      "Original Name": [
+        "NS GROEP IZ NS REIZIGERS"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "basicfit": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Membership",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "BasicFit"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "oco toren": [
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Rent",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "OCO Toren B.V."
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "olympos": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Horeca Olympos UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    },
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Gym Membership",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Sportcentrum Olympos UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "xenos": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [],
+      "Original Name": [
+        "BCK*Xenos Utrecht HC F UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "aon": [
+    {
+      "Category": "Finance",
+      "Subcategory": "Insurance (Health)",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [],
+      "Original Name": [
+        "AON Nederland C.V.",
+        "AON Nederland C.V.",
+        "AON IPM"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ochama": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [],
+      "Original Name": [
+        "Ochama via YabandPay"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    },
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Ochama.com by GlobalCollect"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "van slag": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Membership",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Volleybalvereniging Van Slag"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "holland & barrett": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Supplements",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "The Hague"
+      ],
+      "Original Name": [
+        "Holland & Barrett SGRAVENHAGE"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    },
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Holland & Barrett UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "stanchev": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Others",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Hr LY Stanchev"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "oco": [
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Rent",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "OCO Toren B.V."
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "vigante": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Others",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Dita Vigante"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "amazing oriental": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Amazing Oriental HC UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "pan management": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Pan Management Company NLD"
+      ]
+    }
+  ],
+  "ov ticketservice": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*OV Ticketservice UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "universiteit utrecht": [
+    {
+      "Category": "Education & Self-Improvement",
+      "Subcategory": "Courses",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "UNIVERSITEIT UTRECHT"
+      ]
+    }
+  ],
+  "ns reizigers": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "NS GROEP IZ NS REIZIGERS",
+        "NS Reizigers B.V."
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "city bike": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Bike/Scooter Repair",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CELIL CITY BIKE UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "trans.reference": [
+    {
+      "Category": "Finance",
+      "Subcategory": "Bank Fees",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE4871092 01",
+        "Trans.Reference: FTE7366781 01"
+      ]
+    }
+  ],
+  "shop": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Shop 4721/ Centraal L2 NLD"
+      ]
+    }
+  ],
+  "bk": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "BK 7871 3B2MFV SCHIPHOL NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "jumbo": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Jumbo Hammarskjoldho UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "primark": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht",
+        "Eindhoven",
+        "Den Haag"
+      ],
+      "Original Name": [
+        "PRIMARK UTRECHT UTRECHT NLD",
+        "PRIMARK EINDHOVEN EINDHOVEN NLD",
+        "PRIMARK THE HAGUE DEN HAAG NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "one hundred": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "One Hundred Northern E Utrecht"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "oakberry": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "LS Oakberry Utrecht Ce Utrecht"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "normal": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "NORMAL UTRECHT HOOG CATHA NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    },
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "NORMAL UTRECHT NL0101 UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "action": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Action 1259 Utrecht NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "geldmaat": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Self",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "GELDMAAT LANGE VIESTRAAT UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "rimi": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga",
+        "Marupe",
+        "Kekava"
+      ],
+      "Original Name": [
+        "RIMI CHM Aleja Riga RIGA LVA",
+        "RIMI SM GALERIJA CENTR RIGA LVA",
+        "RIMI SHM ORIGO RIGA RIGA LVA",
+        "RIMI HM MARUPE MARUPES NOV. LVA",
+        "Rimi SM Rigas Kekava KEKAVA LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "amber distribution": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Gifts",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "SIA AMBER DISTRIBUTION RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "bergu kafejnica": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Ropazu Novads"
+      ],
+      "Original Name": [
+        "Bergu Kafejnica ROPAZU NOV. LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "ikealatvia": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "IKEALATVIA SWEDISH FOO LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "bubble tea": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "AND BUBBLE TEA SIA RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "krodzins vigante": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "KRODZINS VIGANTE RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "janis roze": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Books",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Janis RozeKr.Barona Riga LVA",
+        "Janis RozeAudeju Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "COFYZ": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "SumUp  *COFYZ com Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "drogas": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "DROGAS 2007 RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "mcdonalds": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia",
+        "Estonia"
+      ],
+      "City": [
+        "Riga",
+        "Tallinn"
+      ],
+      "Original Name": [
+        "MCDONALDS LUNA SELFSER RIGA LVA",
+        "MCDONALDS UNDERGROUND RIGA LVA",
+        "MCDONALDS VIENIBAS SEL RIGA LVA",
+        "MCDONALDS VIRU SELFSERV EST"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "pizza": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Marupe"
+      ],
+      "Original Name": [
+        "Marupes Pizza Marupe LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "spar": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Latvia",
+        "Netherlands"
+      ],
+      "City": [
+        "Marupe",
+        "Utrecht"
+      ],
+      "Original Name": [
+        "SPAR MARUPES PAG. LVA",
+        "SPAR University KBG UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lsa": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "PYD*LSA Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "elviveikals": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Krimulda"
+      ],
+      "Original Name": [
+        "ElviveikalsRagana Krimuldas LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lido vermanitis": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "LIDO Vermanitis Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "cili pizza": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Cili PizzaBarona Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "shotcafe": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "BARS SHOTCAFE TERASE RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "globuss": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Books",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Globuss Gramatas 2 Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "levain": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Estonia"
+      ],
+      "City": [
+        "Tallinn"
+      ],
+      "Original Name": [
+        "LEVAIN PAGAR TALLINN EST"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "maru": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Estonia"
+      ],
+      "City": [
+        "Tallinn"
+      ],
+      "Original Name": [
+        "KOHVIK MARU HARJUMAA TAL EST"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ginger": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "GINGER RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "radisson": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "RADISSON LATVIJA SKYLI RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ezitis migla": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Ezitis Migla Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "jozef": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Jozef eten en drinken UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ov": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "OV HALTE 24 OKTOBERPLEIN UTRECHT",
+        "CCV*OV Heildelberglaan UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "panuozzo": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*O Panuozzo UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "klm": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Flights",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "KLM"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "gyros bar": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "PAY.nl*The Gyros Bar UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "rabo betaalverzoek": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "R.M. van Melick via Rabo Betaalverzoek"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "amazon": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Amazon EU SARL via Stripe Technology Europe Ltd",
+        "AMZN MKTP NL via Amazon Payments Europe SCA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kruidvat": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Kruidvat 7349 UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "university shop": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "University Shop UU UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "food mood": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Diemen"
+      ],
+      "Original Name": [
+        "Food Mood Amsterdam B. Diemen"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "mollie payments": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Orderli B.V. via Stichting Mollie Payments"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kfc": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*KFC Utrecht Vreden UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "aldi": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "ALDI Utrecht ShopGo Utrecht NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "ekko": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Concerts",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*Stichting EKKO UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "alipay": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [],
+      "City": [],
+      "Original Name": [
+        "Alipay EUROPE LTD S.A"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "bagels&be": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Eindhoven"
+      ],
+      "Original Name": [
+        "CCV*Lieshout bagels&be EINDHOVEN"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "coffeelab": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Eindhoven"
+      ],
+      "Original Name": [
+        "Coffeelab CS EINDHOVEN NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "oliv": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Belgisch Biercafe Oliv UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "tandarts": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Medical Bills",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "C.P. Goosen Tandarts UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "play": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Games & Apps",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "PAY.nl*Play in Utrecht UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "kims": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Kims So Amsterdam B.V. Amsterdam"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "parkwinkel": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Otterlo"
+      ],
+      "Original Name": [
+        "Pin Parkwinkel 83YLV7 OTTERLO"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "uniqlo": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Uniqlo Europe Ltd Dutch B NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "miele": [
+    {
+      "Category": "Home & Utilities",
+      "Subcategory": "Laundry",
+      "Country": [],
+      "City": [],
+      "Original Name": [
+        "Miele Operations ? Payment GmbH"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "snipes": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Den Haag"
+      ],
+      "Original Name": [
+        "Snipes Den Haag 009 Den Haag NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "tiqets": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Attractions",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [],
+      "Original Name": [
+        "Tiqets"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "uncles canteen": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Den Haag"
+      ],
+      "Original Name": [
+        "Uncles Canteen SGRAVENHAGE NLD"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "decathlon": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Den Haag"
+      ],
+      "Original Name": [
+        "Decathlon Den Haag SGRAVENHAGE"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "tk maxx": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Den Haag"
+      ],
+      "Original Name": [
+        "TK Maxx Den Haag NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "paays": [
+    {
+      "Category": "Transfer",
+      "Subcategory": "To Others",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Hr BBJ Paays"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": true
+      }
+    }
+  ],
+  "venezia": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*Venezia IJskiosk V UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "game box": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Games & Apps",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Maastricht"
+      ],
+      "Original Name": [
+        "The Game Box Maastrich NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "gantner": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Gantner nv"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "mcdonald's": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "McDonald's ?31001216"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "camelot": [
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Rent",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Camelot Vastgoedbeheer BV"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "etos": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "ETOS 7723 UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "flying tiger": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands",
+        "Denmark"
+      ],
+      "City": [
+        "Utrecht",
+        "Copenhagen"
+      ],
+      "Original Name": [
+        "Flying Tiger UTRECHT NLD",
+        "Flying Tiger Copenhagen"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "servicewinkel": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "CCV*SERVICEWINKEL BRU UTRECHT"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "hmshost": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht",
+        "Unknown"
+      ],
+      "Original Name": [
+        "HMSHost Utrecht Centra Utrecht",
+        "HMSHost International"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "cm tickets": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Movies & Shows",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "CM Tickets via CM.com"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "sonmat": [
+    {
+      "Category": "Car Maintenance",
+      "Subcategory": "Car Maintenance",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "SONMAT UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "anna pancakes": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "ANNA PANCAKES UTRECHT CEN NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "cambridgebar": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "St. Cambridgebar UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kevin": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Kevin"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "mosaic world": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Mosaic World BV via PAY.nl"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "holland2stay": [
+    {
+      "Category": "Accommodation",
+      "Subcategory": "Accommodation",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "holland2stay.com via Rabo Smart Pay"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "oude pothuys": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "T OUDE POTHUYS BV UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "the florin": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "THE FLORIN UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ing betaalverzoek": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "ING Betaalverzoek via ING Bank NV Betaalverzoek"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "starbucks": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "STARBUCKS CS JAARB UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "el greco": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "EL GRECO UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lebowski": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "GRAND CAFE LEBOWSKI UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "theehuis": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Bunnik"
+      ],
+      "Original Name": [
+        "THEEHUIS RHIJNAUWEN B.V. BUNNIK"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "wittys organic": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Germany"
+      ],
+      "City": [
+        "Berlin"
+      ],
+      "Original Name": [
+        "SUMUP  *WITTYS ORGANIC FO BE DEU"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "berlinbrandenburg": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Local Transport",
+      "Country": [
+        "Germany"
+      ],
+      "City": [
+        "Berlin"
+      ],
+      "Original Name": [
+        "BERLINBRANDENBURG WEL DEU"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "cocolo ramen": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Germany"
+      ],
+      "City": [
+        "Berlin"
+      ],
+      "Original Name": [
+        "COCOLO RAMEN XBERG BERLIN DEU"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "maxima": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "MAXIMA LV R620 RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "hotel topaz": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Accommodation",
+      "Country": [
+        "Poland"
+      ],
+      "City": [
+        "Poznan"
+      ],
+      "Original Name": [
+        "HOTEL TOPAZ POZNAN POL"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ah": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "AH 4109 UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "maas": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Son"
+      ],
+      "Original Name": [
+        "MAAS  164124 UNIVERSITEI SON NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kimmade": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "KIMMADE UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lowiczanka": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Zeist"
+      ],
+      "Original Name": [
+        "Supermarkt Lowiczanka ZEIST NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "nyx": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "NYX*VendingWork Amsterdam NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "plaza resident services": [
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Maintenance",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Plaza Resident Services Nederland B via Mollie"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "hema": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "HEMA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "mcd": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "MCD Supermarkt"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "xerox": [
+    {
+      "Category": "Education & Self-Improvement",
+      "Subcategory": "Software & Tools",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Xerox (nederland)"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "shokudo": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Ccv Shokudo Japanese F"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "abc supermarket": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "ABC Supermarket"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "solow": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "SoLow"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "zara": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "The Hague"
+      ],
+      "Original Name": [
+        "Zara Den Haag"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vermolen": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Ccv J.m. Vermolen"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "nh hotel": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Accommodation",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Madrid"
+      ],
+      "Original Name": [
+        "NH hotel group"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "flixbus": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Germany"
+      ],
+      "City": [
+        "Munich"
+      ],
+      "Original Name": [
+        "FlixBus"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "australian": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Australia"
+      ],
+      "City": [
+        "Sydney"
+      ],
+      "Original Name": [
+        "Australian"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vandeput": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Tim Vandeput"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "aux merveilleux": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "France"
+      ],
+      "City": [
+        "Lille"
+      ],
+      "Original Name": [
+        "Aux Merveilleux de Fred"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ryanair": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Flights",
+      "Country": [
+        "Ireland"
+      ],
+      "City": [
+        "Dublin"
+      ],
+      "Original Name": [
+        "Ryanair"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "saes foodexpress": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Delivery",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Rotterdam"
+      ],
+      "Original Name": [
+        "Saes Foodexpress"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "witstijn van dam": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Vof Witstijn Van Dam"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "sanifair": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Unexpected Expenses",
+      "Country": [
+        "Germany"
+      ],
+      "City": [
+        "Cologne"
+      ],
+      "Original Name": [
+        "SANIFAIR"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "balance migration": [
+    {
+      "Category": "Finance",
+      "Subcategory": "Bank Fees",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "New York"
+      ],
+      "Original Name": [
+        "Balance migration to another region or legal entity"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "easyjet": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Flights",
+      "Country": [
+        "United Kingdom"
+      ],
+      "City": [
+        "Luton"
+      ],
+      "Original Name": [
+        "EasyJet"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lagardère": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "France"
+      ],
+      "City": [
+        "Paris"
+      ],
+      "Original Name": [
+        "Lagardère Travel Retail"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "daile": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Concerts",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Muzikas Nams Daile"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "gan bei": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Gan Bei Barona"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "hospital": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Medical Bills",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Riga 1st hospital"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "coffee": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Coffee Address"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "aliexpress": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "China"
+      ],
+      "City": [
+        "Hangzhou"
+      ],
+      "Original Name": [
+        "AliExpress"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "myprotein": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Supplements",
+      "Country": [
+        "United Kingdom"
+      ],
+      "City": [
+        "Northwich"
+      ],
+      "Original Name": [
+        "MYPROTEIN"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "uber eats": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Delivery",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "San Francisco"
+      ],
+      "Original Name": [
+        "Uber Eats"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "horeca": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Stichting Horeca Oly"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "cafetaria": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Rotterdam"
+      ],
+      "Original Name": [
+        "Cafetaria Ten Beste Corne"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "tricolore": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Pizzeria Tricolore V.o.f."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "witbaard": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Gifts",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Feestwinkel Witbaard Utrecht"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "airbaltic": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Flights",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "airBaltic"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "citybox": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Accommodation",
+      "Country": [
+        "Estonia"
+      ],
+      "City": [
+        "Tallinn"
+      ],
+      "Original Name": [
+        "Citybox Tallinn"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "far eastern": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "Far Eastern Department Stores"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "shou szu": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "Taiwan Shou Szu"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lai hao": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Gifts",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "Lai Hao Gift Shop"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "familymart": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "FamilyMart"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "san shang": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "San Shang 08433"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "howard": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "Howard Eyewear"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "great tree": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Pharmacy",
+      "Country": [
+        "Taiwan"
+      ],
+      "City": [
+        "Taipei"
+      ],
+      "Original Name": [
+        "Great Tree Pharmacy"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "zeeman": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Zeeman"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "dun yong": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Dun Yong"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "eye filminstituut": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Movies & Shows",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Eye Filminstituut Nederla"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vlaams fritehuis": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Eindhoven"
+      ],
+      "Original Name": [
+        "Vlaams Fritehuis van Gogh"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "bellamy": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Other",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Bellamy Holding B.V."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "udemy": [
+    {
+      "Category": "Education & Self-Improvement",
+      "Subcategory": "Courses",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "San Francisco"
+      ],
+      "Original Name": [
+        "Udemy"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "boijmans": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Attractions",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Rotterdam"
+      ],
+      "Original Name": [
+        "Depot Boijmans"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "osozai": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Osozai Japanese Deli"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "apple": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Electronics",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "Cupertino"
+      ],
+      "Original Name": [
+        "Apple"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "orloff": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Rotterdam"
+      ],
+      "Original Name": [
+        "Villa Orloff"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vermaat": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "To Vermaat Leisure B.V."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "paiks": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Paiks Noodle Rokin"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "qq bakery": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Rotterdam"
+      ],
+      "Original Name": [
+        "Qq Bakery Rotterdam"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kong izakaya": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Kong Izakaya V.o.f."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "tiger stores": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Tiger Stores Utrecht"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "opanuozzo": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Opanuozzo Mariastraat"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "burger king": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "Miami"
+      ],
+      "Original Name": [
+        "Burger King"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "dirk": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Dirk"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "g star raw": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "G Star Raw Outlet Utre"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "merchstore": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Merchstore"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "time4t": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Time4t Utrecht"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kodiak": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Zeeland"
+      ],
+      "Original Name": [
+        "Kodiak Zeeland"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "blokker": [
+    {
+      "Category": "Home & Utilities",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Blokker"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "one hundred restrooms": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Unexpected Expenses",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "ONE HUNDRED restrooms"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lego": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Gifts",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "LEGO Store"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kroonenberg": [
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Rent",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Kroonenberg Groep"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "oscar": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "France"
+      ],
+      "City": [
+        "Paris"
+      ],
+      "Original Name": [
+        "Boulangerie OSCAR"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kiosk": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "3212 Ut Kiosk Sp 57"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "saigon": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Saigon Gelderlandplein"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lovisa": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Lovisa Hoog Katarijne"
+      ],
+      "Flags": {
+        "lock_location": true,
+        "manual_check": true
+      }
+    }
+  ],
+  "hofman cafe": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Hofman Cafe UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "anne frank stichting": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Museum",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Anne Frank Stichting"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lucardi": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Gifts",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "BCK*Lucardi 512 UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "doccs": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Medical Bills",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Doccs"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "hair supreme": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Personal Care",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Hair Supreme C via Knab N.V."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "doppio malto": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Italy"
+      ],
+      "City": [
+        "Fiumicino"
+      ],
+      "Original Name": [
+        "DOPPIO MALTO FIUMICINO ITA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "nypd": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "NYPD Utrecht Bernadottelaan"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vomar": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Vomar"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "agoda": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Accommodation",
+      "Country": [
+        "Singapore"
+      ],
+      "City": [
+        "Singapore"
+      ],
+      "Original Name": [
+        "Agoda"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "transavia": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Flights",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Transavia"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "nemo": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Museum",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "NEMO Science Museum"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "basket": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "The Basket Uithof"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "parmigiano": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Parmigiano Amsterdam"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "llotja": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Attractions",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Llotja de la Seda"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "menta": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Menta."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "yuso": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "San Millán de la Cogolla"
+      ],
+      "Original Name": [
+        "Restaurante Yuso"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "mercadona": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Mercadona"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "el corte inglés": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "El Corte Inglés"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "atenea sky": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Atenea Sky"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "cafe del duende": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Cafe Del Duende"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "la alquería del jamón": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "La Alquería Del Jamón"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "bar el rullo": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Bar El Rullo"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "consum": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Consum"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "capsule inn valencia": [
+    {
+      "Category": "Travel",
+      "Subcategory": "Accommodation",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Capsule Inn Valencia"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "tienda principal": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Tienda Principal"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "el kiosko": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "El Kiosko"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "dulce de leche boutique": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Valencia"
+      ],
+      "Original Name": [
+        "Dulce de Leche Boutique"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "carrefour": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "France"
+      ],
+      "City": [
+        "Paris"
+      ],
+      "Original Name": [
+        "Carrefour"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "areas": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Spain"
+      ],
+      "City": [
+        "Palma"
+      ],
+      "Original Name": [
+        "Areas Aeropuerto Palma"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "flying bean coffee": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "Seattle"
+      ],
+      "Original Name": [
+        "Flying Bean Coffee"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "taisoen": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Taisoen"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "soju bar": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Soju Bar Utrecht"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kotoya": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Mollie Kotoya Dining"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "café de zaak": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Café De Zaak"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "koffieboontje": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "t Koffieboontje"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "souffle cafe": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "Los Angeles"
+      ],
+      "Original Name": [
+        "Souffle Cafe"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "grocery store": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "New York"
+      ],
+      "Original Name": [
+        "The Grocery Store"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "atac": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Italy"
+      ],
+      "City": [
+        "Rome"
+      ],
+      "Original Name": [
+        "ATAC Roma"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "dondoli": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Italy"
+      ],
+      "City": [
+        "San Gimignano"
+      ],
+      "Original Name": [
+        "Gelateria Dondoli"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "midaticket": [
+    {
+      "Category": "Entertainment",
+      "Subcategory": "Museum",
+      "Country": [
+        "Italy"
+      ],
+      "City": [
+        "Florence"
+      ],
+      "Original Name": [
+        "MidaTicket"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "moge tee": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "New York"
+      ],
+      "Original Name": [
+        "Moge Tee"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "da long yi": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "China"
+      ],
+      "City": [
+        "Chengdu"
+      ],
+      "Original Name": [
+        "Da Long Yi Hot Pot"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "le smash": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Canada"
+      ],
+      "City": [
+        "Montreal"
+      ],
+      "Original Name": [
+        "Le Smash"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "openai": [
+    {
+      "Category": "Education & Self-Improvement",
+      "Subcategory": "Software & Tools",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "San Francisco"
+      ],
+      "Original Name": [
+        "OpenAI"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vendingland": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Rotterdam"
+      ],
+      "Original Name": [
+        "Vendingland"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lecreme": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "Los Angeles"
+      ],
+      "Original Name": [
+        "Lecreme Ice Cr"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "educatorium": [
+    {
+      "Category": "Education & Self-Improvement",
+      "Subcategory": "Courses",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Uu Educatorium 1585"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ijsmanufactuur": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Snacks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "De Ijsmanufactuur"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "kobus kuch": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Delft"
+      ],
+      "Original Name": [
+        "Cafe Kobus Kuch"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "bruna": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Miscellaneous",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Bruna"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "gall & gall": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Drinks",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Gall & Gall"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ramen nikkou": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Pay.nl Ramen Nikkou B."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "reference": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Unexpected Expenses",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE8389394 01",
+        "Trans.Reference: FTE2788580 01",
+        "Trans.Reference: FTE5171113 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ]
+}
