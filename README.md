@@ -72,7 +72,7 @@ Keyword rules are stored in JSON:
         "CCV*Lieshout bagels&be EINDHOVEN"
         ],
         "Flags": {
-        "lock_location": true,
+        "lock_location": false,
         "manual_check": true
         }   
     }   
