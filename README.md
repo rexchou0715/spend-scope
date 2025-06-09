@@ -1,94 +1,138 @@
 # Spend-Scope 🧾
 
-**Spend-Scope** is a personal finance project that helps you understand your spending habits by integrating and categorizing transactions from **ING** and **Revolut**. It cleans and unifies data from both banks, extracts useful fields like date components, and assigns a category to each transaction using a hand-crafted keyword dictionary.
+**Spend-Scope** is a semi-automated personal finance tool that classifies your transactions from **ING** and **Revolut** using a combination of keyword rules, fuzzy matching, and a language model (LLM) fallback. It's designed to give you a clearer view of your spending patterns with minimal manual effort.
 
 ---
 
 ## 💡 Why I Built This
 
-I wanted to clearly understand my financial behavior by combining ING and Revolut data. This project helps me clean and structure those transactions, and categorize them to reveal where my money goes.
-
-While it’s built for personal use, I’ve included **anonymized sample data** so others can practice with it. If you use ING or Revolut, you can adapt it to your own finances too!
+I wanted to deeply understand my financial behavior by integrating ING and Revolut data and categorizing each transaction meaningfully. Manual categorization was slow and error-prone — this system automates that process while still allowing manual control where needed.
 
 ---
 
 ## 📂 Data Sources
 
-- `data/raw/ing_bank_statement_sample.csv`
-- `data/raw/revolut_bank_statement_sample.csv`
+Transactions are read from the following sources:
 
-The raw data includes fields like:
+* `data/raw/ing_bank_statement_sample.csv`
+* `data/raw/revolut_bank_statement_sample.csv`
+* `data/processed/cleaned_transactions_previous.csv` (used for appending new entries)
 
-### ING
-- `Date`, `Name / Description`, `Debit/Credit`, `Amount (EUR)`
-
-### Revolut
-- `Type`, `Started Date`, `Completed Date`, `Description`, `Amount`
+Each file has a different structure, and Spend-Scope handles normalization internally.
 
 ---
 
-## 🧼 Cleaning Pipeline
+## 🧼 Cleaning & Transformation Pipeline
 
-The pipeline (in `main.ipynb`) performs the following:
+### ING:
 
-1. **Date ➝ Year, Month, Day**
-2. **Price format ➝** `14,95` ➝ `14.95`
-3. **Transaction Name cleaning ➝** remove special characters like `*`, `/`
-4. **Categorization ➝** uses a custom dictionary in `category_keywords.py`
+* Converts `Date` to `Year`, `Month`, `Day`
+* Converts `14,95` ➝ `14.95`
+* Maps `Debit/Credit` to negative/positive amount
+* Cleans `Name / Description` and normalizes it
 
-The cleaned output is saved in:  data/processed/cleaned_transactions.csv
+### Revolut:
 
+* Uses `Completed Date` as transaction date
+* Maps positive/negative amount to credit/debit
+* Normalizes description as name
 
 ---
 
-## 🔖 Categorization
+## 🔍 Categorization Logic
 
-Categorization is based on **hand-written keyword rules** stored in `category_keywords.py`. Transactions are matched to categories like:
+Each transaction is classified through these steps:
 
-- Groceries, Dining, Transportation, Entertainment
-- Shopping (Clothing, Electronics, etc.)
-- Utilities, Rent, Medical
-- Income types (Salary, Refund, Top Up, etc.)
+1. **Normalize Name** ➝ Lowercase + remove special characters
+2. **Fuzzy Matching** against keyword rules (using `rapidfuzz`)
+3. If no match:
 
-Unmatched entries are labeled as `"Uncategorized Expense"` or `"Uncategorized Income"`.
+   * Add to pending batch (credit or debit)
+   * When batch reaches threshold (e.g., 15), send to **Gemini API** for classification
+4. LLM response adds a new entry to `rules_credit.json` or `rules_debit.json` using `add_to_keyword_rules()`.
+
+---
+
+## 🧠 Rules Engine
+
+Keyword rules are stored in JSON:
+
+```json
+"revolut": [
+  {
+    "Category": "Transfer",
+    "Subcategory": "To Self",
+    "Country": [],
+    "City": [],
+    "Original Name": ["Revolut Bank UAB"],
+    "Flags": {
+      "manual_check": true,
+      "lock_location": true
+    }
+  }
+]
+```
+
+### Flags:
+
+* `manual_check: true` ➝ Do not update this rule anymore
+* `lock_location: true` ➝ Skip updating country/city fields
 
 ---
 
 ## 🚀 How to Use
 
-1. Clone this repository.
-2. Install the required dependencies:
-    ```bash
-    pip install pandas notebook
-    ```
-3. Run `main.ipynb` to clean and categorize the transactions.
-4. View the result in `data/processed/`.
+1. Clone the repo:
 
-> 💡 I use the output in **Tableau** to build visual dashboards.
+   ```bash
+   git clone https://github.com/rexchou0715/spend-scope.git
+   cd spend-scope
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install pandas rapidfuzz openai
+   ```
+
+3. Run `main.ipynb` (e.g., `main.py` or `main.ipynb`)
+
+4. View results in:
+
+   * `data/processed/cleaned_transactions.csv`
+   * Rules: `rules_credit.json`, `rules_debit.json`
+   * Unlabeled entries are saved as pending and optionally sent to LLM
 
 ---
 
-## ⚠️ Known Limitations
+## 🧪 Example Match Flow
 
-- Not scalable — based on fixed rules and keywords
-- No ML or fuzzy matching (yet)
-- Unknown transactions are not automatically categorized
+1. Name: `"Revolut**8458* Dublin IRL"`
+2. Normalize ➝ `"revolut"`
+3. Match rule from `rules_debit.json`
+4. If flag `manual_check = true`, skip all updates
 
 ---
 
-## 🔮 Future Plans
 
-- Add **language model (LLM) API** to suggest categories for unknown transactions
-- Explore more automated or intelligent categorization methods
+## 📌 Known Limitations
+
+* Still needs occasional manual review
+* Gemini API requires batching
+* Rules can grow large and may need pruning
+
+---
+
+## 🌱 Future Plans
+
+* Integrate rule priority / expiry logic
+* Auto-suggest edits based on user corrections
+* Add category confidence score
 
 ---
 
 ## 📚 License
 
-This project is shared for learning and personal finance tracking. The included sample data is anonymized and provided only for practice purposes.
+This is a personal tool released for learning purposes. Sample data is anonymized.
 
----
 
-## 🙌 Contributions
-
-Feel free to fork, adapt, or expand the keyword list — especially if you're also using ING or Revolut!
