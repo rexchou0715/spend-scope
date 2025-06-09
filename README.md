@@ -58,18 +58,24 @@ Each transaction is classified through these steps:
 Keyword rules are stored in JSON:
 
 ```json
-"revolut": [
-  {
-    "Category": "Transfer",
-    "Subcategory": "To Self",
-    "Country": [],
-    "City": [],
-    "Original Name": ["Revolut Bank UAB"],
-    "Flags": {
-      "manual_check": true,
-      "lock_location": true
-    }
-  }
+"bagels&be": [
+    {
+        "Category": "Food & Dining",
+        "Subcategory": "Restaurants",
+        "Country": [
+        "Netherlands"
+        ],
+        "City": [
+        "Eindhoven"
+        ],
+        "Original Name": [
+        "CCV*Lieshout bagels&be EINDHOVEN"
+        ],
+        "Flags": {
+        "lock_location": true,
+        "manual_check": true
+        }   
+    }   
 ]
 ```
 
