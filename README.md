@@ -139,6 +139,8 @@ data/processed/cleaned_transactions.csv
 
 It transforms raw, messy transaction data into clear, actionable financial insights and helps track spending behavior over time.
 
+🔗 View the full project page here: [Spend-Scope Dashboard](https://public.tableau.com/app/profile/chou.cheng.yi/viz/MontlySpendingOverview/MonthlyOverview)
+
 ---
 
 ## 📌 Known Limitations
