@@ -139,6 +139,7 @@ data/processed/cleaned_transactions.csv
 
 It transforms raw, messy transaction data into clear, actionable financial insights and helps track spending behavior over time.
 
+---
 
 ## 📌 Known Limitations
 
