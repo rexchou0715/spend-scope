@@ -121,6 +121,25 @@ Keyword rules are stored in JSON:
 ---
 
 
+## 📊 Visualization: Tableau Dashboard
+
+The processed output from Spend-Scope is visualized in an interactive Tableau Public dashboard, built to answer questions like:
+   * Where is my money going each month?
+   * Which categories or merchants dominate my expenses?
+   * What areas could I cut back on to save more?
+
+The dashboard includes:
+   * KPIs for Income, Expenses, and Net Income
+   * A category breakdown via bar and donut charts
+   * A dynamic Top 10 Spending Places table
+   * Month filter for flexible exploration
+
+This dashboard is powered by the system’s output file:
+data/processed/cleaned_transactions.csv
+
+It transforms raw, messy transaction data into clear, actionable financial insights and helps track spending behavior over time.
+
+
 ## 📌 Known Limitations
 
 * Still needs occasional manual review

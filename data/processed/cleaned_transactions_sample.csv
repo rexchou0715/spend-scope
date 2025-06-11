@@ -1,0 +1,205 @@
+,Year,Month,Day,Name,Amount,IsCredit,Source,Normalized Name,Category,Subcategory,Keyword,Match Type
+1,2023,8,27,Google Pay Top-Up by *7810,10.0,Credit,Revolut,google pay topup by 7810,Transfer,To Self,google pay,Fuzzy
+2,2023,8,27,Google Pay Top-Up by *7810,200.19,Credit,Revolut,google pay topup by 7810,Transfer,To Self,google pay,Fuzzy
+3,2023,8,28,To Lebara,-9.5,Debit,Revolut,to lebara,Housing & Utilities,Phone Bill,lebara,Fuzzy
+4,2023,8,29,Action,-10.36,Debit,Revolut,action,Shopping,Home Goods,action,Fuzzy
+5,2023,8,29,Normal,-3.5,Debit,Revolut,normal,Shopping,Home Goods,normal,Fuzzy
+6,2023,8,29,Amazing Oriental,-3.99,Debit,Revolut,amazing oriental,Food & Dining,Groceries,amazing oriental,Fuzzy
+7,2023,8,29,HEMA,-7.5,Debit,Revolut,hema,Shopping,Home Goods,hema,Fuzzy
+8,2023,8,29,Albert Heijn,-21.75,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+9,2023,8,30,Albert Heijn,-3.17,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+10,2023,8,30,Albert Heijn,-1.64,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+11,2023,8,30,KFC,-1.75,Debit,Revolut,kfc,Food & Dining,Restaurants,kfc,Fuzzy
+12,2023,9,1,Albert Heijn,-34.64,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+13,2023,9,2,SPAR university,-1.9,Debit,Revolut,spar university,Food & Dining,Groceries,spar,Fuzzy
+14,2023,9,8,Albert Heijn,-23.87,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+15,2023,9,8,To Plaza Resident Services Nederland B via Mollie,-10.0,Debit,Revolut,to plaza resident services nederland b via mollie,Housing & Utilities,Maintenance,plaza resident services,Fuzzy
+16,2023,9,9,Kruidvat,-13.22,Debit,Revolut,kruidvat,Shopping,Personal Care,kruidvat,Fuzzy
+17,2023,9,9,Maas,-1.2,Debit,Revolut,maas,Entertainment,Games & Apps,game box,Fuzzy
+18,2023,9,10,Albert Heijn,-11.72,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+19,2023,9,11,Maas,-1.2,Debit,Revolut,maas,Entertainment,Games & Apps,game box,Fuzzy
+20,2023,9,12,KFC,-2.95,Debit,Revolut,kfc,Food & Dining,Restaurants,kfc,Fuzzy
+21,2023,9,16,MCD Supermarkt,-13.25,Debit,Revolut,mcd supermarkt,Food & Dining,Groceries,mcd,Fuzzy
+22,2023,9,17,Albert Heijn,-14.69,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+23,2023,9,18,Albert Heijn,-2.39,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+24,2023,9,18,Albert Heijn,-3.89,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+25,2023,9,23,Action 1282 Utrecht NLD,-10.15,Debit,ING,action 1282 utrecht nld,Shopping,Home Goods,action,Fuzzy
+26,2023,9,23,ALBERT HEIJN 1294 UTRECHT NLD,-44.64,Debit,ING,albert heijn 1294 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+27,2023,9,23,Jumbo Utrecht Rijnkade UTRECHT,-2.19,Debit,ING,jumbo utrecht rijnkade utrecht,Food & Dining,Groceries,jumbo,Pending
+28,2023,9,23,NS Utrecht C. 209 UTRECHT NLD,-5.0,Debit,ING,ns utrecht c 209 utrecht nld,Transportation,Public Transit,ns,Pending
+29,2023,9,25,NORMAL UTRECHT NL0101 UTRECHT,-1.5,Debit,ING,normal utrecht nl0101 utrecht,Shopping,Home Goods,normal,Fuzzy
+30,2023,9,25,MCD Utrecht HC UTRECHT NLD,-6.2,Debit,ING,mcd utrecht hc utrecht nld,Food & Dining,Restaurants,mcd,Fuzzy
+31,2023,9,25,Holland & Barrett UTRECHT NLD,-9.99,Debit,ING,holland barrett utrecht nld,Shopping,Personal Care,holland & barrett,Fuzzy
+32,2023,9,26,To Lebara,-0.63,Debit,Revolut,to lebara,Housing & Utilities,Phone Bill,lebara,Fuzzy
+33,2023,9,30,Action 1282 Utrecht NLD,-2.48,Debit,ING,action 1282 utrecht nld,Shopping,Home Goods,action,Fuzzy
+34,2023,9,30,ALBERT HEIJN 2204 UTRECHT NLD,-19.26,Debit,ING,albert heijn 2204 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+35,2023,9,30,Amazing Oriental HC UTRECHT NLD,-17.54,Debit,ING,amazing oriental hc utrecht nld,Food & Dining,Groceries,amazing oriental,Fuzzy
+36,2023,9,30,MAAS  164124 UNIVERSITEI SON NLD,-1.2,Debit,ING,maas 164124 universitei son nld,Food & Dining,Snacks,maas,Fuzzy
+37,2023,10,1,EL GRECO UTRECHT NLD,-11.0,Debit,ING,el greco utrecht nld,Food & Dining,Restaurants,el greco,Fuzzy
+38,2023,10,2,ALBERT HEIJN 2202 UTRECHT NLD,-4.35,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+39,2023,10,4,Albert Heijn Bunnik BUNNIK NLD,-5.68,Debit,ING,albert heijn bunnik bunnik nld,Food & Dining,Groceries,albert heijn,Fuzzy
+40,2023,10,4,AON IPM via Unifiedpost Payments SA,-56.7,Debit,ING,aon ipm via unifiedpost payments sa,Finance,Insurance (Health),aon,Fuzzy
+41,2023,10,5,Tikkie,-50.0,Debit,ING,tikkie,Transfer,To Others,tikkie,Fuzzy
+42,2023,10,5,Plaza Resident Services Nederland B via Mollie,-10.0,Debit,ING,plaza resident services nederland b via mollie,Housing & Utilities,Maintenance,plaza resident services,Fuzzy
+43,2023,10,7,MAAS  164124 UNIVERSITEI SON NLD,-1.2,Debit,ING,maas 164124 universitei son nld,Food & Dining,Snacks,maas,Fuzzy
+44,2023,10,8,ALBERT HEIJN 2204 UTRECHT NLD,-12.56,Debit,ING,albert heijn 2204 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+45,2023,10,8,NSUtrecht.CS 213 UTRECHT NLD,-20.0,Debit,ING,nsutrechtcs 213 utrecht nld,Transportation,Public Transit,ns,Pending
+46,2023,10,9,NORMAL UTRECHT NL0101 UTRECHT,-1.2,Debit,ING,normal utrecht nl0101 utrecht,Shopping,Home Goods,normal,Fuzzy
+47,2023,10,9,ALBERT HEIJN 2202 UTRECHT NLD,-12.49,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+48,2023,10,10,KFC UTRECHT VREDENBURG UTRECHT,-3.5,Debit,ING,kfc utrecht vredenburg utrecht,Food & Dining,Restaurants,kfc,Pending
+49,2023,10,13,NYX*VendingWork Amsterdam NLD,-1.35,Debit,ING,nyxvendingwork amsterdam nld,Shopping,Personal Care,nyx,Fuzzy
+50,2023,10,14,ALBERT HEIJN 2202 UTRECHT NLD,-40.79,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+51,2023,10,14,McD Utrecht UTRECHT NLD,-10.75,Debit,ING,mcd utrecht utrecht nld,Food & Dining,Restaurants,mcd,Fuzzy
+52,2023,10,14,Action 1282 Utrecht NLD,-3.69,Debit,ING,action 1282 utrecht nld,Shopping,Home Goods,action,Fuzzy
+53,2023,10,15,Supermarkt Lowiczanka ZEIST NLD,-5.9,Debit,ING,supermarkt lowiczanka zeist nld,Food & Dining,Groceries,lowiczanka,Fuzzy
+54,2023,10,16,Trans.Reference: FTE7366781 01,2612.0,Credit,ING,transreference fte7366781 01,Gifts & Personal,Family Support,fte,Fuzzy
+55,2023,10,16,Trans.Reference: FTE7366781 01,-6.0,Debit,ING,transreference fte7366781 01,Finance,Bank Fees,trans.reference,Fuzzy
+56,2023,10,16,Albert Heijn Bunnik BUNNIK NLD,-13.72,Debit,ING,albert heijn bunnik bunnik nld,Food & Dining,Groceries,albert heijn,Fuzzy
+57,2023,10,19,KIMMADE UTRECHT NLD,-18.7,Debit,ING,kimmade utrecht nld,Food & Dining,Restaurants,kimmade,Fuzzy
+58,2023,10,19,Action 1282 Utrecht NLD,-2.49,Debit,ING,action 1282 utrecht nld,Shopping,Home Goods,action,Fuzzy
+59,2023,10,19,MAAS  164124 UNIVERSITEI SON NLD,-1.2,Debit,ING,maas 164124 universitei son nld,Food & Dining,Snacks,maas,Fuzzy
+60,2023,10,19,Amazing Oriental HC UTRECHT NLD,-4.2,Debit,ING,amazing oriental hc utrecht nld,Food & Dining,Groceries,amazing oriental,Fuzzy
+61,2023,10,20,HSUtrecht015 UTRECHT NLD,-0.3,Debit,ING,hsutrecht015 utrecht nld,Education & Self-Improvement,Courses,hsutrecht,Fuzzy
+62,2023,10,20,HSUtrecht059 UTRECHT NLD,-0.3,Debit,ING,hsutrecht059 utrecht nld,Education & Self-Improvement,Courses,hsutrecht,Fuzzy
+63,2023,10,20,BELASTINGDIENST,909.0,Credit,ING,belastingdienst,Government & Support,Grant,belastingdienst,Fuzzy
+64,2023,10,21,ALBERT HEIJN 2202 UTRECHT NLD,-2.81,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+65,2023,10,22,Albert Heijn Bunnik BUNNIK NLD,-13.43,Debit,ING,albert heijn bunnik bunnik nld,Food & Dining,Groceries,albert heijn,Fuzzy
+66,2023,10,23,MCD Utrecht HC UTRECHT NLD,-7.65,Debit,ING,mcd utrecht hc utrecht nld,Food & Dining,Restaurants,mcd,Fuzzy
+67,2023,10,23,Amazing Oriental HC UTRECHT NLD,-8.16,Debit,ING,amazing oriental hc utrecht nld,Food & Dining,Groceries,amazing oriental,Fuzzy
+68,2023,10,23,ALBERT HEIJN 2202 UTRECHT NLD,-7.06,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+69,2023,10,24,University Shop UU UTRECHT NLD,-1.79,Debit,ING,university shop uu utrecht nld,Food & Dining,Groceries,university shop,Fuzzy
+70,2023,10,24,To Lebara,-9.5,Debit,Revolut,to lebara,Housing & Utilities,Phone Bill,lebara,Fuzzy
+71,2023,10,25,Albert Heijn Bunnik BUNNIK NLD,-25.83,Debit,ING,albert heijn bunnik bunnik nld,Food & Dining,Groceries,albert heijn,Fuzzy
+72,2023,10,26,MAAS  164124 UNIVERSITEI SON NLD,-1.45,Debit,ING,maas 164124 universitei son nld,Food & Dining,Snacks,maas,Fuzzy
+73,2023,10,28,AH 4109 UTRECHT NLD,-13.72,Debit,ING,ah 4109 utrecht nld,Food & Dining,Groceries,ah,Fuzzy
+74,2023,10,29,Albert Heijn Bunnik BUNNIK NLD,-3.69,Debit,ING,albert heijn bunnik bunnik nld,Food & Dining,Groceries,albert heijn,Fuzzy
+75,2023,10,30,ALBERT HEIJN 2202 UTRECHT NLD,-21.91,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+76,2023,11,2,Mosaic World BV via PAY.nl,-771.15,Debit,ING,mosaic world bv via paynl,Housing & Utilities,Rent,mosaic world,Fuzzy
+77,2023,11,3,Sportcentrum Olympos UTRECHT NLD,-160.0,Debit,ING,sportcentrum olympos utrecht nld,Food & Dining,Restaurants,olympos,Fuzzy
+78,2023,11,5,Revolut Payments UAB via Stripe,-10.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+79,2023,11,5,IDEAL Top-Up,10.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+80,2023,11,6,Revolut Payments UAB via Stripe,-20.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+81,2023,11,6,Universiteit Utrecht,-2.45,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+82,2023,11,6,Universiteit Utrecht,-2.13,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+83,2023,11,6,IDEAL Top-Up,20.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+84,2023,11,7,Stichting Mollie Payments,-10.0,Debit,ING,stichting mollie payments,Miscellaneous,Other,mollie payments,Fuzzy
+85,2023,11,7,Revolut Payments UAB via Stripe,-20.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+86,2023,11,7,NS Groep N.V.,-5.6,Debit,ING,ns groep nv,Transportation,Public Transit,ns,Pending
+87,2023,11,7,Xerox (nederland),-5.0,Debit,Revolut,xerox nederland,Education & Self-Improvement,Software & Tools,xerox,Fuzzy
+88,2023,11,7,Ccv Shokudo Japanese F,-17.5,Debit,Revolut,ccv shokudo japanese f,Food & Dining,Restaurants,shokudo,Fuzzy
+89,2023,11,7,Albert Heijn,-5.45,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+90,2023,11,7,IDEAL Top-Up,20.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+91,2023,11,8,OV HEILDELBERGLAAN RI. UT NLD,-5.0,Debit,ING,ov heildelberglaan ri ut nld,Transportation,Public Transit,ov,Pending
+92,2023,11,8,Revolut Bank UAB,-30.0,Debit,ING,revolut bank uab,Transfer,To Self,revolut,Fuzzy
+93,2023,11,8,IDEAL Top-Up,30.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+94,2023,11,8,Albert Heijn,-4.99,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+95,2023,11,8,Albert Heijn,-12.32,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+96,2023,11,9,ABC Supermarket,-3.49,Debit,Revolut,abc supermarket,Food & Dining,Groceries,abc supermarket,Fuzzy
+97,2023,11,9,KFC,-1.75,Debit,Revolut,kfc,Food & Dining,Restaurants,kfc,Fuzzy
+98,2023,11,9,Albert Heijn,-13.78,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+99,2023,11,10,Revolut Bank UAB,-50.0,Debit,ING,revolut bank uab,Transfer,To Self,revolut,Fuzzy
+100,2023,11,10,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+101,2023,11,11,Revolut Payments UAB via Stripe,-50.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+102,2023,11,11,Ochama.com by GlobalCollect,-1.99,Debit,ING,ochamacom by globalcollect,Food & Dining,Groceries,ochama,Fuzzy
+103,2023,11,11,Ochama.com by GlobalCollect,-23.33,Debit,ING,ochamacom by globalcollect,Food & Dining,Groceries,ochama,Fuzzy
+104,2023,11,11,SoLow,-4.98,Debit,Revolut,solow,Shopping,Miscellaneous,solow,Fuzzy
+105,2023,11,11,Albert Heijn,-3.0,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+106,2023,11,11,Zara Den Haag,-39.95,Debit,Revolut,zara den haag,Shopping,Clothing,zara,Fuzzy
+107,2023,11,11,Ccv J.m. Vermolen,-2.5,Debit,Revolut,ccv jm vermolen,Miscellaneous,Other,vermolen,Fuzzy
+108,2023,11,11,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+109,2023,11,12,NH hotel group,-34.9,Debit,Revolut,nh hotel group,Travel,Accommodation,nh hotel,Fuzzy
+110,2023,11,13,Action,-1.78,Debit,Revolut,action,Shopping,Home Goods,action,Fuzzy
+111,2023,11,13,ABC Supermarket,-1.1,Debit,Revolut,abc supermarket,Food & Dining,Groceries,abc supermarket,Fuzzy
+112,2023,11,14,Revolut Bank UAB,-20.0,Debit,ING,revolut bank uab,Transfer,To Self,revolut,Fuzzy
+113,2023,11,14,Amazon Payments Europe SCA,-10.77,Debit,ING,amazon payments europe sca,Shopping,Miscellaneous,amazon,Fuzzy
+114,2023,11,14,Albert Heijn,-7.76,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+115,2023,11,14,IDEAL Top-Up,20.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+116,2023,11,15,Albert Heijn,-22.77,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+117,2023,11,17,Revolut Bank UAB,-50.0,Debit,ING,revolut bank uab,Transfer,To Self,revolut,Fuzzy
+118,2023,11,17,HSUtrecht015 UTRECHT NLD,-0.3,Debit,ING,hsutrecht015 utrecht nld,Education & Self-Improvement,Courses,hsutrecht,Fuzzy
+119,2023,11,17,AON IPM via Unifiedpost Payments SA,-56.7,Debit,ING,aon ipm via unifiedpost payments sa,Finance,Insurance (Health),aon,Fuzzy
+120,2023,11,17,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+121,2023,11,18,Action,-5.0,Debit,Revolut,action,Shopping,Home Goods,action,Fuzzy
+122,2023,11,18,Amazing Oriental,-12.34,Debit,Revolut,amazing oriental,Food & Dining,Groceries,amazing oriental,Fuzzy
+123,2023,11,18,Normal,-2.9,Debit,Revolut,normal,Shopping,Home Goods,normal,Fuzzy
+124,2023,11,20,BELASTINGDIENST,303.0,Credit,ING,belastingdienst,Government & Support,Grant,belastingdienst,Fuzzy
+125,2023,11,20,Albert Heijn,-22.48,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+126,2023,11,21,Revolut Bank UAB,-50.0,Debit,ING,revolut bank uab,Transfer,To Self,revolut,Fuzzy
+127,2023,11,21,FlixBus,-15.98,Debit,Revolut,flixbus,Transportation,Public Transit,flixbus,Fuzzy
+128,2023,11,21,Albert Heijn,-0.45,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+129,2023,11,21,McDonald's,-2.65,Debit,Revolut,mcdonalds,Food & Dining,Restaurants,mcdonalds,Fuzzy
+130,2023,11,21,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+131,2023,11,22,Amazon Payments Europe SCA,-30.99,Debit,ING,amazon payments europe sca,Shopping,Miscellaneous,amazon,Fuzzy
+132,2023,11,23,To Lebara,-9.57,Debit,Revolut,to lebara,Housing & Utilities,Phone Bill,lebara,Fuzzy
+133,2023,11,25,Amazing Oriental HC UTRECHT NLD,-32.62,Debit,ING,amazing oriental hc utrecht nld,Food & Dining,Groceries,amazing oriental,Fuzzy
+134,2023,11,25,Albert Heijn,-1.17,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+135,2023,11,25,Holland & Barrett,-10.49,Debit,Revolut,holland barrett,Health & Fitness,Supplements,holland & barrett,Fuzzy
+136,2023,11,26,IKEA,-7.27,Debit,Revolut,ikea,Food & Dining,Restaurants,ikealatvia,Fuzzy
+137,2023,11,27,ALBERT HEIJN 2202 UTRECHT NLD,-26.77,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+138,2023,11,29,NYA*St. Horeca Olympos 302533636,-1.6,Debit,ING,nyast horeca olympos 302533636,Food & Dining,Snacks,horeca,Pending
+139,2023,11,30,Universiteit Utrecht,-1.59,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+140,2023,12,3,AON IPM via Unifiedpost Payments SA,-56.7,Debit,ING,aon ipm via unifiedpost payments sa,Finance,Insurance (Health),aon,Fuzzy
+141,2023,12,3,Mosaic World BV via PAY.nl,-771.15,Debit,ING,mosaic world bv via paynl,Housing & Utilities,Rent,mosaic world,Fuzzy
+142,2023,12,3,Primark,-6.0,Debit,Revolut,primark,Shopping,Clothing,primark,Fuzzy
+143,2023,12,3,Australian,-5.0,Debit,Revolut,australian,Food & Dining,Restaurants,australian,Fuzzy
+144,2023,12,3,Tim Vandeput,-10.0,Debit,Revolut,tim vandeput,Miscellaneous,Other,vandeput,Fuzzy
+145,2023,12,3,Aux Merveilleux de Fred,-1.95,Debit,Revolut,aux merveilleux de fred,Food & Dining,Restaurants,aux merveilleux,Fuzzy
+146,2023,12,4,Revolut Bank UAB,-50.0,Debit,ING,revolut bank uab,Transfer,To Self,revolut,Fuzzy
+147,2023,12,4,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+148,2023,12,5,Universiteit Utrecht,-4.04,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+149,2023,12,6,Revolut Payments UAB via Stripe,-30.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+150,2023,12,6,Universiteit Utrecht,-1.35,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+151,2023,12,6,IDEAL Top-Up,30.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+152,2023,12,7,Plaza Resident Services Nederland B via Stichting Mollie Payments,-10.0,Debit,ING,plaza resident services nederland b via stichting mollie payments,Housing & Utilities,Maintenance,plaza resident services,Fuzzy
+153,2023,12,7,Ryanair,-50.49,Debit,Revolut,ryanair,Travel,Flights,ryanair,Fuzzy
+154,2023,12,9,Tikkie,-15.0,Debit,ING,tikkie,Transfer,To Others,tikkie,Fuzzy
+155,2023,12,10,Revolut Payments UAB via Stripe,-30.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+156,2023,12,10,IKEA Utrecht UTRECHT NLD,-19.99,Debit,ING,ikea utrecht utrecht nld,Shopping,Home Goods,ikea,Fuzzy
+157,2023,12,10,IDEAL Top-Up,30.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+158,2023,12,11,Amazing Oriental HC UTRECHT NLD,-7.39,Debit,ING,amazing oriental hc utrecht nld,Food & Dining,Groceries,amazing oriental,Fuzzy
+159,2023,12,11,Action,-3.29,Debit,Revolut,action,Shopping,Home Goods,action,Fuzzy
+160,2023,12,11,Albert Heijn,-2.45,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+161,2023,12,11,Albert Heijn,-26.85,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+162,2023,12,11,Jumbo Supermarkt,-2.13,Debit,Revolut,jumbo supermarkt,Food & Dining,Groceries,jumbo,Pending
+163,2023,12,13,NS GROEP IZ NS REIZIGERS,-34.32,Debit,ING,ns groep iz ns reizigers,Transportation,Public Transit,ns,Fuzzy
+164,2023,12,13,Universiteit Utrecht,-3.8,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+165,2023,12,15,Revolut Payments UAB via Stripe,-50.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+166,2023,12,15,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+167,2023,12,16,Tikkie,-73.0,Debit,ING,tikkie,Transfer,To Others,tikkie,Fuzzy
+168,2023,12,16,Kruidvat,-15.87,Debit,Revolut,kruidvat,Shopping,Personal Care,kruidvat,Fuzzy
+169,2023,12,16,Albert Heijn,-9.31,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+170,2023,12,16,Saes Foodexpress,-5.0,Debit,Revolut,saes foodexpress,Food & Dining,Delivery,saes foodexpress,Fuzzy
+171,2023,12,16,Action,-0.99,Debit,Revolut,action,Shopping,Home Goods,action,Fuzzy
+172,2023,12,17,Amazon EU SARL,-13.49,Debit,ING,amazon eu sarl,Shopping,Miscellaneous,amazon,Fuzzy
+173,2023,12,17,Albert Heijn,-6.03,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+174,2023,12,17,Etos,-5.09,Debit,Revolut,etos,Shopping,Personal Care,etos,Fuzzy
+175,2023,12,18,Albert Heijn,-3.07,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+176,2023,12,18,Vof Witstijn Van Dam,-2.5,Debit,Revolut,vof witstijn van dam,Miscellaneous,Other,witstijn van dam,Fuzzy
+177,2023,12,19,Albert Heijn,-3.0,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+178,2023,12,19,Albert Heijn,-5.14,Debit,Revolut,albert heijn,Food & Dining,Groceries,albert heijn,Fuzzy
+179,2023,12,19,SANIFAIR,-0.7,Debit,Revolut,sanifair,Miscellaneous,Unexpected Expenses,sanifair,Fuzzy
+180,2023,12,20,BELASTINGDIENST,337.0,Credit,ING,belastingdienst,Government & Support,Grant,belastingdienst,Fuzzy
+181,2023,12,20,Universiteit Utrecht,-1.59,Debit,Revolut,universiteit utrecht,Education & Self-Improvement,Courses,universiteit utrecht,Fuzzy
+182,2023,12,21,PANDORA Utrecht Hoog Cath NLD,-54.0,Debit,ING,pandora utrecht hoog cath nld,Shopping,Gifts,pandora,Fuzzy
+183,2023,12,21,ALBERT HEIJN 2202 UTRECHT NLD,-21.49,Debit,ING,albert heijn 2202 utrecht nld,Food & Dining,Groceries,albert heijn,Fuzzy
+184,2023,12,21,Flying Tiger Copenhagen,-1.5,Debit,Revolut,flying tiger copenhagen,Shopping,Home Goods,flying tiger,Fuzzy
+185,2023,12,21,Balance migration to another region or legal entity,-7.44,Debit,Revolut,balance migration to another region or legal entity,Finance,Bank Fees,balance migration,Fuzzy
+186,2023,12,21,Balance migration to another region or legal entity,7.44,Credit,Revolut,balance migration to another region or legal entity,Transfer,To Self,balance,Fuzzy
+187,2023,12,23,HOTEL TOPAZ POZNAN POL,-1.23,Debit,ING,hotel topaz poznan pol,Travel,Accommodation,hotel topaz,Fuzzy
+188,2023,12,23,Revolut Payments UAB via Stripe,-50.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+189,2023,12,23,Kiosk,-0.1,Debit,Revolut,kiosk,Food & Dining,Snacks,venezia,Fuzzy
+190,2023,12,23,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+191,2023,12,24,Revolut Payments UAB via Stripe,-50.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+192,2023,12,24,IDEAL Top-Up,50.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+193,2023,12,24,MOL,-5.08,Debit,Revolut,mol,Miscellaneous,Other,mollie payments,Fuzzy
+194,2023,12,25,EasyJet,-66.72,Debit,Revolut,easyjet,Travel,Flights,easyjet,Fuzzy
+195,2023,12,26,Bistro Vermanitis Riga LVA,-11.95,Debit,ING,bistro vermanitis riga lva,Food & Dining,Restaurants,vermanitis,Fuzzy
+196,2023,12,27,SPAR MARUPES PAG. LVA,-10.24,Debit,ING,spar marupes pag lva,Food & Dining,Groceries,spar,Fuzzy
+197,2023,12,27,To Lebara,-9.5,Debit,Revolut,to lebara,Housing & Utilities,Phone Bill,lebara,Fuzzy
+198,2023,12,28,MAXIMA LV R620 RIGA LVA,-3.28,Debit,ING,maxima lv r620 riga lva,Food & Dining,Groceries,maxima,Fuzzy
+199,2023,12,29,Trans.Reference: FTE5171113 01,2612.0,Credit,ING,transreference fte5171113 01,Gifts & Personal,Family Support,fte,Fuzzy
+200,2023,12,29,Trans.Reference: FTE5171113 01,-6.0,Debit,ING,transreference fte5171113 01,Miscellaneous,Unexpected Expenses,reference,Fuzzy
+201,2023,12,30,Revolut Payments UAB via Stripe,-20.0,Debit,ING,revolut payments uab via stripe,Transfer,To Self,revolut,Fuzzy
+202,2023,12,30,Lagardère Travel Retail,-4.3,Debit,Revolut,lagardre travel retail,Shopping,Miscellaneous,lagardère,Fuzzy
+203,2023,12,30,IDEAL Top-Up,20.0,Credit,Revolut,ideal topup,Transfer,To Self,ideal,Fuzzy
+204,2023,12,31,Rimi,-0.85,Debit,Revolut,rimi,Food & Dining,Groceries,rimi,Fuzzy

@@ -115,6 +115,23 @@
         "lock_location": true,
         "manual_check": true
       }
+    },
+    {
+      "Category": "Salary & Work",
+      "Subcategory": "Full-Time Salary",
+      "Country": [
+        "United States"
+      ],
+      "City": [
+        "New York"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE8389394 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
     }
   ],
   "ns": [
@@ -305,6 +322,44 @@
       "Flags": {
         "lock_location": true,
         "manual_check": true
+      }
+    }
+  ],
+  "fte8093411": [
+    {
+      "Category": "Others",
+      "Subcategory": "One-Time Payment",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE8093411 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "fte7837022": [
+    {
+      "Category": "Others",
+      "Subcategory": "One-Time Payment",
+      "Country": [
+        "Unknown"
+      ],
+      "City": [
+        "Unknown"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE7837022 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
       }
     }
   ]

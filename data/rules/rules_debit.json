@@ -1,7 +1,7 @@
 {
   "revolut": [
     {
-      "Category": "Trasnfer",
+      "Category": "Transfer",
       "Subcategory": "To Self",
       "Country": [],
       "City": [],
@@ -89,7 +89,7 @@
   ],
   "tikkie": [
     {
-      "Category": "Trasnfer",
+      "Category": "Transfer",
       "Subcategory": "To Others",
       "Country": [],
       "City": [],
@@ -183,7 +183,11 @@
         "ALBERT HEIJN 1379 EINDHOVEN NLD",
         "Albert Heijn Bunnik BUNNIK NLD",
         "ALBERT HEIJN 2209 AMSTERDAM NLD",
-        "ALBERT HEIJN 1314 AMSTERDAM NLD"
+        "ALBERT HEIJN 1314 AMSTERDAM NLD",
+        "ALBERT HEIJN 1322 UTRECHT NLD",
+        "ALBERT HEIJN 1078 UTRECHT NLD",
+        "ALBERT HEIJN 1527 UTRECHT NLD",
+        "ALBERT HEIJN 1434 UTRECHT NLD"
       ],
       "Flags": {
         "lock_location": false,
@@ -585,6 +589,23 @@
         "Trans.Reference: FTE4871092 01",
         "Trans.Reference: FTE7366781 01"
       ]
+    },
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Unexpected Expenses",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE8093411 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
     }
   ],
   "shop": [
@@ -629,7 +650,10 @@
         "Netherlands"
       ],
       "City": [
-        "Utrecht"
+        "Utrecht",
+        "Veghel",
+        "Amsterdam",
+        "Unknown"
       ],
       "Original Name": [
         "Jumbo Hammarskjoldho UTRECHT NLD"
@@ -748,7 +772,8 @@
         "Utrecht"
       ],
       "Original Name": [
-        "Action 1259 Utrecht NLD"
+        "Action 1259 Utrecht NLD",
+        "Action 1282 Utrecht NLD"
       ],
       "Flags": {
         "lock_location": false,
@@ -2438,6 +2463,23 @@
         "lock_location": false,
         "manual_check": false
       }
+    },
+    {
+      "Category": "Housing & Utilities",
+      "Subcategory": "Rent",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Plaza Resident Services Nederland B via Stichting Mollie Payments"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
     }
   ],
   "hema": [
@@ -2471,6 +2513,24 @@
       ],
       "Original Name": [
         "MCD Supermarkt"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    },
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "McD Utrecht UTRECHT NLD",
+        "MCD Utrecht HC UTRECHT NLD"
       ],
       "Flags": {
         "lock_location": false,
@@ -4763,15 +4823,284 @@
       "Category": "Miscellaneous",
       "Subcategory": "Unexpected Expenses",
       "Country": [
-        "Unknown"
+        "Unknown",
+        "Netherlands"
       ],
       "City": [
-        "Unknown"
+        "Unknown",
+        "Amsterdam"
       ],
       "Original Name": [
         "Trans.Reference: FTE8389394 01",
         "Trans.Reference: FTE2788580 01",
-        "Trans.Reference: FTE5171113 01"
+        "Trans.Reference: FTE5171113 01",
+        "Trans.Reference: FTE7837022 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "all in supermarkt": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "ALL IN SUPERMARKT UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "fest en pure": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Fest en Pure via Stichting Mollie Payments"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "buddygodutch": [
+    {
+      "Category": "Relationships & Social",
+      "Subcategory": "Group Dinners",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "BuddyGoDutch via Stichting Mollie Payments"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ov ticket": [
+    {
+      "Category": "Transportation",
+      "Subcategory": "Public Transit",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Ov Ticket Servicepunt"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "hsutrecht": [
+    {
+      "Category": "Education & Self-Improvement",
+      "Subcategory": "Courses",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "HSUtrecht059 UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "ikea": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Home Goods",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "IKEA Utrecht UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "lidl": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Groceries",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "Lidl 757 Utrecht UTRECHT NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "h&m": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "H&M/301 GALERIJA CENTR RIGA LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "letex": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Clothing",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "LETEX SIA Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "fte": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Unexpected Expenses",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "Trans.Reference: FTE9313807 01"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "pandora": [
+    {
+      "Category": "Shopping",
+      "Subcategory": "Gifts",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Utrecht"
+      ],
+      "Original Name": [
+        "PANDORA Utrecht Hoog Cath NLD"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "vermanitis": [
+    {
+      "Category": "Food & Dining",
+      "Subcategory": "Restaurants",
+      "Country": [
+        "Latvia"
+      ],
+      "City": [
+        "Riga"
+      ],
+      "Original Name": [
+        "Bistro Vermanitis Riga LVA"
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "basic fit": [
+    {
+      "Category": "Health & Fitness",
+      "Subcategory": "Membership",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Hoofddorp"
+      ],
+      "Original Name": [
+        "Basic Fit Nederland B.V."
+      ],
+      "Flags": {
+        "lock_location": false,
+        "manual_check": false
+      }
+    }
+  ],
+  "mollie": [
+    {
+      "Category": "Miscellaneous",
+      "Subcategory": "Unexpected Expenses",
+      "Country": [
+        "Netherlands"
+      ],
+      "City": [
+        "Amsterdam"
+      ],
+      "Original Name": [
+        "To A.G. VoF via Stichting Mollie Payments"
       ],
       "Flags": {
         "lock_location": false,
